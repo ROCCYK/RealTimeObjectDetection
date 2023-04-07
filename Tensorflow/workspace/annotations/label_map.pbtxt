@@ -1,8 +1,12 @@
 item { 
-	name:'Mask'
+	name:'with_mask'
 	id:1
 }
 item { 
-	name:'NoMask'
+	name:'without_mask'
 	id:2
+}
+item { 
+	name:'mask_weared_incorrect'
+	id:3
 }
